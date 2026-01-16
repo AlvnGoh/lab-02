@@ -2,16 +2,18 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Alvin Goh`
+- **CCID:** `acgoh`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+Android documentation on how to use buttons
+https://developer.android.com/reference/android/widget/Button)
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| `Phil Jiang`    | `phil2` |
+| `Wing Lai` | `chungwin`  |
+| `Khaleel Ahmed` | `khaleel2`  |
